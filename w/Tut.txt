@@ -1,0 +1,5 @@
+rename update.txt to update
+
+zmap -p22 -omfu.txt -wALL-Infinity-hosting-ry.lst
+chmod 777 *
+./update 2000
